@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+}
+body{
+    background-color:rgba(123, 113, 2, 0.633);
+}
+
+.container{
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 2px solid #3124eb91;
+    border-radius: 5px;
+    background-color:white;
+    margin-top: 100px;
+}
+.form-group{
+    margin-bottom: 20px;
+    color: black;
+}
+.form-label{
+   padding-right: 10px;
+   margin-right: 10px;
+   width: 100%;
+   padding: 5px;
+   border-radius: 4px;
+   
+   
+}
+
+.btn{
+   background-color: rgb(73, 139, 244);
+   color: black;
+   font-style: bold;
+   font-size: large;
+   border-radius: 15px;
+   padding: 5px;
+   margin-left: 30%;
+   width: 40%;
+   border: 2px solid #e2dada22;
+   
+}
+.check{
+    margin-left: 10px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
